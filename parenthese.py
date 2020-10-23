@@ -2,7 +2,7 @@
 
 def Bien_parenthese(Str):
     
-    stack = []
+    stack = [] # la pile
 
     for char in Str:
        
